@@ -8,7 +8,6 @@ bin/
 obj/
 publish/
 vendor/
-models/
 qa-output/
 .test-data/
 .tools/
