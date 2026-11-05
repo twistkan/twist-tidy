@@ -7,6 +7,10 @@
 
 A native, offline Windows file organizer for video production. Built from the supplied specification with C#, .NET 8, WPF, and no third-party application packages.
 
+## Screenshot
+
+![TwistTidy overview showing Footage Sorter, Duplicate Finder and Project Builder](docs/screenshots/Home.png)
+
 ## Start using the app
 
 You do not need Visual Studio, the SDK, or a separate .NET installation to use the supplied executables.
